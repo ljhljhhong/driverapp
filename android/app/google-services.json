@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83190272447",
+    "project_id": "call-taxi-f7be8",
+    "storage_bucket": "call-taxi-f7be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83190272447:android:dcda94cd2ca5d595d3110a",
+        "android_client_info": {
+          "package_name": "com.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_wDPbv4BqvVLNUKSPDA5GUAVHoXZr9Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83190272447:android:2ad73c4cfff8c1d7d3110a",
+        "android_client_info": {
+          "package_name": "com.taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_wDPbv4BqvVLNUKSPDA5GUAVHoXZr9Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
